@@ -9,10 +9,10 @@ Laravel Test
 php artisan migrate
 
 # For Customer Login
-http://localhost/Project/cartD/public/
+http://localhost/ProjectName/public/
 
 # For Admin Login
-http://localhost/Project/cartD/public/admin
+http://localhost/ProjectName/public/admin
 
 # Auth Guard Used For Admin and User
 
